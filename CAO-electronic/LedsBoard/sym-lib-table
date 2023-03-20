@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TrucPourPlantes")(type "KiCad")(uri "/home/chockichoc/Documents/TrucPourPlantes/CAO-electronic/Libraries/TrucPourPlantes.kicad_sym")(options "")(descr ""))
+)
