@@ -37,7 +37,7 @@
     (thermal_bridge_angle 45) (tstamp 39b07b83-3c4e-40eb-9061-3c3af82e5f69))
   (pad "4" smd roundrect (at -2.2 -1.2) (size 1.8 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 351390d8-8ff2-4b97-a02b-b2e604c8fae7))
-  (model "../3DModels/ABMM2.STEP"
+  (model "${KIPRJMOD}/../Libraries/3DModels/ABMM2.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
